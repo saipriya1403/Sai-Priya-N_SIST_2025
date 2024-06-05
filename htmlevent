@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Events</title>
+      <link rel="icon" href="img/date.png">
+    </head>
+
+
+
+    <body bgcolor="black" style="color: white;">
+        <center>
+        <h1>UPCOMING EVENTS 📅</h1>
+        <p>Don't miss any of your important events.stay updated</p>
+        </center>
+
+        <hr>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto, nostrum dicta. Corporis at, expedita mollitia eligendi rerum impedit. Aut ipsum eligendi totam, ipsam a quod quos in, explicabo, corrupti officia ipsa odio soluta doloremque. Labore ab molestiae voluptates dignissimos saepe eligendi laboriosam repellendus recusandae fuga, optio quaerat nisi unde maiores dicta totam, placeat blanditiis consequuntur neque sit? Necessitatibus at consectetur, itaque, dolores debitis consequuntur exercitationem ipsum, sapiente tenetur aliquam recusandae repellendus laboriosam! Sed aut repellendus ullam recusandae deserunt unde dicta ad quia natus doloribus, hic, cumque quis dolore tempora temporibus labore harum possimus? Voluptas pariatur vero doloribus magnam eveniet natus?</p>
+         <center>
+        <img src="img/event1.png">
+        <h1>Photo Gallery</h1>
+        <h2>Free Entry| Free Food| Pets are not allowed</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt eaque numquam alias doloribus commodi, possimus ipsam neque nemo laudantium, laborum fugiat iure cupiditate dolore! Expedita repudiandae dolores velit qui totam aliquam distinctio? Inventore facere distinctio doloremque corporis voluptatibus dolorem sunt autem, nesciunt ipsum tempora quidem eum architecto? Nesciunt, ipsa laborum.</p>
+        </center>
+
+        <center>
+            <img src="img/event2.png">
+            <h1>
+                <a href="https://www.bing.com/search?q=myntra&gs_lcrp=EgZjaHJvbWUqBwgAEEUYwgMyBwgAEEUYwgMyBwgBEEUYwgMyBwgCEEUYwgMyBwgDEEUYwgMyBwgEEEUYwgMyBwgFEEUYwgMyBwgGEEUYwgMyBwgHEEUYwgPSAQs0NjgwNzgzajBqMagCCLACAQ&FORM=ANNTA1&PC=U531">Fashion store</a>
+            </h1>
+            <h2>Free Entry| Free Food| Pets are not allowed</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, consequuntur ut! Ad nemo deserunt facere eos cum, maiores, culpa ex odit libero ratione hic harum est quisquam reiciendis repudiandae? Dolor consequatur eligendi commodi quisquam dolores minus hic, dolore assumenda totam nulla perspiciatis accusantium modi perferendis? Veniam blanditiis debitis odio sunt!</p>
+        </center>
+        <hr>
+        <center>
+        <h1>CONTACT</h1>
+        <h2>+91 5678943276|eventcollab@gmail.com</h2>
+        <p>9th street Avenue park Chennai,600119</p>
+        </center>
+
+    
+
+    </body>
+
+</html>
